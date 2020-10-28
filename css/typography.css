@@ -1,0 +1,61 @@
+h1{
+    font-family: Muli, sans-serif;
+    font-weight: 300;
+    font-size: 3.375em;
+    
+}
+
+h2{
+    font-family: Muli, sans-serif;
+    font-weight: 300;
+    font-size: 2.625em;
+    color: #17252A;
+}
+
+h3{
+    font-family: Muli, sans-serif;
+    font-weight: 600;
+    font-size: 2.25em;
+    color: #17252A;
+}
+
+h4{
+    font-family: Muli, sans-serif;
+    font-weight: 600;
+    font-size: 1.25em;
+    color: #17252A;
+}
+
+h5{
+    font-family: Muli, sans-serif;
+    font-weight: 600;
+    font-size: 1.125em;
+    color: #17252A;
+}
+
+h6{
+    font-family: Muli, sans-serif;
+    font-weight: 600;
+    font-size: 21em;
+    color: #17252A;
+}
+
+p{
+    font-family: Muli, sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    color: #17252A;
+}
+
+a{
+    font-family: Muli, sans-serif;
+    font-weight: 600;
+    font-size: 12px;
+    color: #f4a261;
+}
+
+span{
+    font-family: Muli, sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+}

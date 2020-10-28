@@ -1,0 +1,553 @@
+@media only screen and (max-width: 600px) {
+    .container{
+        width: 80%;
+        margin-right: auto;
+        margin-left: auto;
+    }
+
+    .navigation-col{
+        display: none;
+    }
+
+    .title-container{
+        width: 80%;
+    }
+
+    .col5{
+        display: none;
+    }
+
+    .block-1-image{
+        margin-left: 0;
+        margin-right: 0;
+        width: 100%;
+    }
+
+    .col2{
+        width: calc(100% - 60px);
+        margin-top: 20px;
+    }
+
+    .col3{
+        width: calc(50% - 20px);
+        min-width: 50px;
+    }
+
+    .block-2-col-1{
+        width: calc(100% - 20px);
+    }
+
+    .container-hero-front{
+        margin-top: -50px;
+        padding-top: 0px;
+    }
+
+    .account-name{
+        margin-top: 50px;
+    }
+
+    .col3-portfolio-2{
+        width: calc(100% - 40px);
+    }
+
+    .col3-portfolio-3{
+        width: calc(100% - 40px);
+    }
+
+    .input-name-first{
+        width: 80%;
+        margin-left: 10%;
+    }
+
+    .input-name-last{
+        width: 80%;
+        margin-left: 10%;
+    }
+
+    .col2-user-search-1{
+        margin-left: 0px;
+        margin-right: 0px;
+        
+    }
+
+    .col2-user-search-2{
+        width: calc(100% - 80px);
+        
+    }
+
+    .search-bar-wrapper{
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    .wrapper-content-portfolios{
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+
+    .list-users{
+        padding-left: 5px;
+        padding-right: 5px;
+    }
+
+    .col2-portfolios{
+        margin-left: 0px;
+        margin-right: 0px;
+        padding-left: 0px;
+        padding-right: 0px;
+        width: 100%;
+    }
+
+    .sidebar-single-item{
+        width: calc(100% - 40px);
+        margin-top: 20px;
+    }
+
+    .content-single-item{
+        width: calc(100% - 20px);
+    }
+
+    .p-single-item{
+        width: 100%;
+    }
+}
+
+@media only screen and (min-width: 576px) {
+    .container{
+        max-width: 540px;
+        margin-right: auto;
+        margin-left: auto;
+    }
+
+    .navigation-col{
+        display: none;
+    }
+
+    .title-container{
+        width: 80%;
+    }
+
+    .col5{
+        display: none;
+    }
+
+    .block-1-image{
+        margin-left: 0;
+        margin-right: 0;
+        width: 100%;
+    }
+
+    .col2{
+        width: calc(100% - 60px);
+        margin-top: 20px;
+    }
+
+    .col3{
+        width: calc(50% - 20px);
+        min-width: 200px;
+    }
+
+    .block-2-col-1{
+        width: calc(100% - 20px);
+    }
+
+    .container-hero-front{
+        margin-top: 0;
+        padding-top: 77px;
+    }
+
+    .account-name{
+        margin-top: 50px;
+    }
+
+    .col3-portfolio-2{
+        width: calc(80% - 40px);
+    }
+
+    .col3-portfolio-3{
+        width: calc(100% - 40px);
+    }
+
+    .col2-user-search-1{
+        margin-left: 10px;
+        margin-right: 10px;
+        
+    }
+
+    .col2-user-search-2{
+        width: calc(100% - 80px);
+        
+    }
+
+    .search-bar-wrapper{
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    .wrapper-content-portfolios{
+        padding-left: 40px;
+        padding-right: 40px;
+    }
+
+    .list-users{
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+
+    .col2-portfolios{
+        margin-left: 10px;
+        margin-right: 10px;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+
+    .sidebar-single-item{
+        width: calc(100% - 40px);
+        margin-top: 20px;
+    }
+
+    .content-single-item{
+        width: calc(100% - 20px);
+    }
+
+    .p-single-item{
+        width: 100%;
+    }
+}
+
+@media only screen and (min-width: 768px) {
+    .container{
+        max-width: 720px;
+        margin-right: auto;
+        margin-left: auto;
+    }
+
+    .navigation-col{
+        display: block;
+    }
+
+    .title-container{
+        width: calc(100% - 300px);
+    }
+
+    .col5{
+        width: calc(20% - 52px);
+        display: block;
+        padding: 16px;
+        height: 88px;
+    }
+
+    .icon-text{
+        font-size: 12px;
+        padding-top: -5px;
+        padding-bottom: 0px;
+        line-height: 1.2;
+        font-weight: 800;
+    }
+
+    .container-overlappable{
+        height: 130px;
+    }
+
+    .block-1-image{
+        margin-left: 0;
+        margin-right: 0;
+        width: 100%;
+    }
+
+    .col2{
+        width: calc(100% - 60px);
+        margin-top: 20px;
+    }
+
+    .col3{
+        width: calc(33.33% - 40px);
+    }
+
+    .block-2-col-1{
+        width: calc(33.33% - 40px);
+    }
+
+    .account-name{
+        margin-top: 0;
+    }
+
+    .col3-portfolio-2{
+        width: calc(80% - 40px);
+    }
+
+    .col3-portfolio-3{
+        width: calc(100% - 40px);
+    }
+
+    .col2-user-search-1{
+        margin-left: 10px;
+        margin-right: 10px;
+        
+    }
+
+    .col2-user-search-2{
+        width: calc(100% - 80px);
+        
+    }
+
+    .search-bar-wrapper{
+        padding-right: 20px;
+        padding-left: 20px;
+    }
+
+    .wrapper-content-portfolios{
+        padding-left: 40px;
+        padding-right: 40px;
+    }
+
+    .list-users{
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+
+    .col2-portfolios{
+        margin-left: 10px;
+        margin-right: 10px;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+
+    .sidebar-single-item{
+        width: calc(30% - 40px);
+        margin-top: 0;
+    }
+
+    .content-single-item{
+        width: calc(70% - 20px);
+    }
+
+    .p-single-item{
+        width: 100%;
+    }
+}
+
+@media only screen and (min-width: 1024px) {
+    .container{
+        max-width: 960px;
+        margin-right: auto;
+        margin-left: auto;
+    }
+
+    .navigation-col{
+        display: block;
+    }
+
+    .title-container{
+        width: calc(100% - 300px);
+    }
+
+    .col5{
+        width: calc(20% - 66px);
+        display: block;
+        padding: 23px;
+        height: 122px;
+    }
+
+    .icon-text{
+        font-size: 16px;
+        padding-top: 5px;
+        padding-bottom: 5px;
+        line-height: 1.2;
+        font-weight: 600;
+    }
+
+    .container-overlappable{
+        height: 178px;
+    }
+
+    .block-1-image{
+        margin-left: 0;
+        margin-right: 0;
+        width: 100%;
+    }
+
+    .col2{
+        width: calc(50% - 40px);
+        margin-top: 0;
+    }
+
+    .col3{
+        width: calc(33.33% - 40px);
+    }
+
+    .block-2-col-1{
+        width: calc(33.33% - 40px);
+    }
+
+    .account-name{
+        margin-top: 0;
+    }
+
+    .col3-portfolio-2{
+        width: calc(40% - 40px);
+    }
+
+    .col3-portfolio-3{
+        width: calc(40% - 40px);
+    }
+
+    .col2-user-search-1{
+        margin-left: 10px;
+        margin-right: 10px;
+        
+    }
+
+    .col2-user-search-2{
+        width: calc(100% - 80px);
+        
+    }
+
+    .search-bar-wrapper{
+        padding-left: 40px;
+        padding-right: 40px;
+    }
+
+    .wrapper-content-portfolios{
+        padding-left: 40px;
+        padding-right: 40px;
+    }
+
+    .list-users{
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+
+    .col2-portfolios{
+        margin-left: 10px;
+        margin-right: 10px;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+
+    .sidebar-single-item{
+        width: calc(25% - 40px);
+        margin-top: 0;
+    }
+
+    .content-single-item{
+        width: calc(75% - 20px);
+    }
+
+    .p-single-item{
+        width: 70%;
+    }
+}
+
+@media only screen and (min-width: 1200px) {
+    .container{
+        max-width: 1232px;
+        margin-right: auto;
+        margin-left: auto;
+    }
+
+    .navigation-col{
+        display: block;
+    }
+
+    .title-container{
+        width: calc(100% - 300px);
+    }
+
+    .col5{
+        width: calc(20% - 80px);
+        display: block;
+        padding:30px;
+        height: 160px;
+    }
+
+    .icon-text{
+        font-size: 18px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        line-height: 1.2;
+        font-weight: 600;
+    }
+
+    
+    .container-overlappable{
+        height: 230px;
+    }
+
+    .block-1-image{
+        margin-left: 10%;
+        margin-right: 10%;
+        width: 80%;
+    }
+
+    .col2{
+        width: calc(50% - 40px);
+        margin-top: 0;
+    }
+
+    .col3{
+        width: calc(33.33% - 40px);
+    }
+
+    .block-2-col-1{
+        width: calc(33.33% - 40px);
+    }
+
+    .account-name{
+        margin-top: 0;
+    }
+
+    .col3-portfolio-2{
+        width: calc(40% - 40px);
+    }
+
+    .col3-portfolio-3{
+        width: calc(40% - 40px);
+    }
+
+    .col2-user-search-1{
+        margin-left: 10px;
+        margin-right: 10px;
+        
+    }
+
+    .col2-user-search-2{
+        width: calc(100% - 80px);
+    }
+
+    .search-bar-wrapper{
+        padding-right: 40px;
+        padding-left: 40px;
+    }
+    
+    .wrapper-content-portfolios{
+        padding-left: 40px;
+        padding-right: 40px;
+    }
+
+    .list-users{
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+
+    .col2-portfolios{
+        margin-left: 10px;
+        margin-right: 10px;
+        padding-left: 10px;
+        padding-right: 10px;
+
+    }
+
+    .sidebar-single-item{
+        width: calc(25% - 40px);
+        margin-top: 0;
+    }
+
+    .content-single-item{
+        width: calc(75% - 20px);
+    }
+
+    .p-single-item{
+        width: 70%;
+    }
+}
